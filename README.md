@@ -150,7 +150,7 @@ server/config/db.js
 
 ## My Appointments
 
-![My Appointments](screenshots/My-appointments.png)
+![My Appointments](screenshots/my-appointment.png)
 
 ---
 
