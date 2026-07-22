@@ -1,12 +1,13 @@
-# Dependencies
+# Root node modules
+node_modules/
+
+# Client
 client/node_modules/
-server/node_modules/
-
-# Environment variables
-server/.env
-
-# React build
 client/dist/
+
+# Server
+server/node_modules/
+server/.env
 
 # Logs
 *.log
