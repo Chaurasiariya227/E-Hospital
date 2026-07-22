@@ -1,0 +1,46 @@
+.booking-container{
+    max-width:700px;
+    margin:40px auto;
+    padding:30px;
+}
+body { background-color: #d7e6fc; }
+.booking-container h1{
+    text-align:center;
+    margin-bottom:30px;
+}
+
+.doctor-card-book{
+    background:#f8f8f8;
+    padding:20px;
+    border-radius:12px;
+    margin-bottom:30px;
+}
+
+.booking-form{
+    display:flex;
+    flex-direction:column;
+    gap:18px;
+}
+
+.booking-form input,
+.booking-form select,
+.booking-form textarea{
+    padding:12px;
+    border:1px solid #ccc;
+    border-radius:8px;
+    font-size:16px;
+}
+
+.booking-form button{
+    padding:15px;
+    background:#2563eb;
+    color:white;
+    border:none;
+    border-radius:8px;
+    cursor:pointer;
+    font-size:17px;
+}
+
+.booking-form button:hover{
+    background:#1d4ed8;
+}

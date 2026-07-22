@@ -1,0 +1,52 @@
+.doctor-details-page{
+    max-width:1000px;
+    margin:40px auto;
+    padding:30px;
+}
+
+.doctor-profile{
+    display:flex;
+    gap:40px;
+    align-items:center;
+    background:white;
+    padding:30px;
+    border-radius:15px;
+    box-shadow:0 5px 20px rgba(0,0,0,.1);
+}
+
+.doctor-avatar{
+    width:120px;
+    height:120px;
+    border-radius:50%;
+    background:#14b8a6;
+    color:white;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-size:40px;
+    font-weight:bold;
+}
+
+.about-section{
+    margin-top:40px;
+    background:white;
+    padding:25px;
+    border-radius:15px;
+    box-shadow:0 5px 20px rgba(0,0,0,.1);
+}
+
+.book-btn{
+    margin-top:35px;
+    width:100%;
+    padding:18px;
+    font-size:18px;
+    background:#14b8a6;
+    color:white;
+    border:none;
+    border-radius:10px;
+    cursor:pointer;
+}
+
+.book-btn:hover{
+    background:#0f766e;
+}
