@@ -150,7 +150,7 @@ server/config/db.js
 
 ## My Appointments
 
-![My Appointments](screenshots/my-appointments.png)
+![My Appointments](screenshots/My-appointments.png)
 
 ---
 
@@ -176,8 +176,6 @@ server/config/db.js
 **Riya Chaurasia**
 
 GitHub: https://github.com/Chaurasiariya227
-
-LinkedIn: *(Add your LinkedIn profile here)*
 
 ---
 
