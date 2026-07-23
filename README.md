@@ -1,4 +1,4 @@
-# 🏥 HospEase – Hospital Appointment Management System
+# A Full-Stack Hospital Appointment Management System built with React, Node.js, Express, MySQL, and JWT Authentication.
 
 HospEase is a full-stack Hospital Appointment Management System that streamlines the process of booking and managing doctor appointments. It provides separate functionalities for patients and administrators with secure JWT-based authentication and role-based access control.
 
