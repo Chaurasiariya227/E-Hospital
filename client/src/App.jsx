@@ -7,7 +7,7 @@ import Doctors from "./pages/doctors";
 import Dashboard from "./pages/dashboard";
 import About from "./pages/about";
 import Contact from "./pages/contact";
-import Footer from "./components/Footer";
+import Footer from "./components/footer";
 import DoctorDetails from "./pages/DoctorDetails";
 import BookAppointment from "./pages/BookAppointment";
 import MyAppointments from "./pages/MyAppointments";
